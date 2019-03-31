@@ -10,6 +10,7 @@ public class SumOfIntegers {
 		 * 
 		 * Enter a 5-digit positive integer: 30458 
 		 * The sum of the digits is 3 + 0 + 4 + 5 + 8 = 20
+		 * 
 		 */
 		
 		int getNumber,remainder,total = 0;
