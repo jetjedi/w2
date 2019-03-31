@@ -22,7 +22,7 @@ public class SumOfIntegers {
 		int isLength = String.valueOf(getNumber).length(); 
 		
 		
-		//validate if isLength is at least 5 digits long and > 0
+		//validate if isLength is at least 5 digits long and > 0.
 		if(isLength != 5 || getNumber < 0) {
 			System.out.println("Error: Number entered is not 5 digits long or is not positve. Exiting(0)");
 			System.exit(0);
